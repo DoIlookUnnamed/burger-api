@@ -1,12 +1,14 @@
-[
-  {
-    "Name": "Splatter Costume",
-    "Head": "6866718033",
-    "LeftArm": "6866756029",
-    "RightArm": "6866758271",
-    "LeftLeg": "6866757170",
-    "RightLeg": "6866759204",
-    "Torso": "6866760234",
-    "HeadTexture": "6866665032"
-  }
-]
+{
+  [
+    {
+      "Name": "Splatter Costume",
+      "Head": "6866718033",
+      "LeftArm": "6866756029",
+      "RightArm": "6866758271",
+      "LeftLeg": "6866757170",
+      "RightLeg": "6866759204",
+      "Torso": "6866760234",
+      "HeadTexture": "6866665032"
+    }
+  ]
+}
